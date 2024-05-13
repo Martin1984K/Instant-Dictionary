@@ -17,7 +17,7 @@ class Home(page.Page):
         div = jp.Div(a=container, classes='bg-gray-200 h-screen')
         jp.Div(a=div, text='This is the Home page', classes='text-4xl m-2')
         jp.Div(a=div, text="""
-        Blablabliblupblupblup
+        Welcome, dear lover of definitions. We hope you enjoy the enlargement of your knowledge on a daily basis.
         """, classes='text-lg')
         return wp
 
